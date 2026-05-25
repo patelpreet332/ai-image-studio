@@ -182,6 +182,21 @@ Click the folder icon below any generated image to open its location.
 
 ---
 
+## Showcase
+
+![](assets/1.png)
+
+![](assets/2.png)
+
+![](assets/3.png)
+
+![](assets/4.png)
+
+![](assets/5.png)
+
+
+---
+
 ## Command-Line Options
 
 You can customize startup behavior by setting `COMMANDLINE_ARGS` before launching.
